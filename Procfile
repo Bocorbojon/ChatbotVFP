@@ -1,1 +1,1 @@
-web: gunicorn app:ChatbotTestVFP --log-file=-
+web: gunicorn app:ChatbotVFP --log-file=-
